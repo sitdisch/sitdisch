@@ -14,8 +14,8 @@
 <br>
 
 # <a href="https://github.com/myactionway" title="Explore this" target="_blank"><img src="https://avatars.githubusercontent.com/u/80457499?s=60&amp;v=4" alt="@MyActionWay" size="25" height="25" width="25" class="avatar "></img></a> [MyActionWay](https://github.com/myactionway "Explore this") :zzz:
+<a href="https://github.com/myactionway/lighthouse-badger-action" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=myactionway&repo=lighthouse-badger-action&theme=monokai" /></a>
 <a href="https://github.com/myactionway/branch-pruner-action" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=myactionway&repo=branch-pruner-action&theme=monokai" /></a>
-<a href="https://github.com/myactionway/branch-pruner-workflow" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=myactionway&repo=branch-pruner-workflow&theme=monokai" /></a>
 
 <br>
 
