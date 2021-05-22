@@ -17,7 +17,10 @@
 <a align="center" href="https://github.com/myactionway/lighthouse-badger-action" title="Explore this" target="_blank"><img src="https://repository-images.githubusercontent.com/359823564/31d7b800-af1f-11eb-8d4b-431075ac940c"/></a>
 <a href="https://github.com/myactionway/lighthouse-badger-action" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=myactionway&repo=lighthouse-badger-action&theme=monokai" /></a>
 <a href="https://github.com/myactionway/lighthouse-badger-workflows" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=myactionway&repo=lighthouse-badger-workflows&theme=monokai" /></a>
+
+<a align="center" href="https://github.com/myactionway/branch-pruner-action" title="Explore this" target="_blank"><img src="https://repository-images.githubusercontent.com/352585084/3bae0d80-bb12-11eb-86c4-c420ef0fec71"/></a>
 <a href="https://github.com/myactionway/branch-pruner-action" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=myactionway&repo=branch-pruner-action&theme=monokai" /></a>
+<a href="https://github.com/myactionway/branch-pruner-workflows" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=myactionway&repo=branch-pruner-workflows&theme=monokai" /></a>
 
 <br>
 
