@@ -31,5 +31,5 @@
 <a href="https://github.com/MyThemeWay/Light-Particle" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mythemeway&repo=Light-Particle&border_color=050B0E" /></a>
 
 # Have a nice day :wave:
-![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=sitdisch.sitdisch&text=visitors)
+![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=sitdisch.sitdisch&text=visits&cache=off)
 </div>
