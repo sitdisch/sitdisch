@@ -26,11 +26,70 @@
 <br>
 
 # <a href="https://github.com/mythemeway" title="Explore this" target="_blank"><img src="https://avatars.githubusercontent.com/u/52597090?s=60&amp;v=4" alt="@MyThemeWay" size="25" height="25" width="25"></img></a> [MyThemeWay](https://github.com/mythemeway "Explore this") :sparkles:
+
+## <a href="https://github.com/mythemeway" title="Explore this" target="_blank"><img src="https://avatars.githubusercontent.com/u/52597090?s=60&amp;v=4" alt="@MyThemeWay" size="23" height="23" width="23"></img></a> [Boilerplates](https://github.com/mythemeway#-boilerplates-sparkles "Explore this") :hotsprings:
 <a align="center" href="https://github.com/mythemeway" title="Explore this" target="_blank"><img src="https://i.redd.it/txxr1z113ib61.gif" width="804"/></a>
 <a href="https://github.com/MyThemeWay/Dark-Particle" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mythemeway&repo=Dark-Particle&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905"/></a>
 <a href="https://github.com/MyThemeWay/Light-Particle" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mythemeway&repo=Light-Particle&border_color=050B0E" /></a>
 
+## <a href="https://github.com/mythemeway" title="Explore this" target="_blank"><img src="https://avatars.githubusercontent.com/u/52597090?s=60&amp;v=4" alt="@MyThemeWay" size="23" height="23" width="23"></img></a> [WebGL Headers](https://github.com/mythemeway#-webgl-headers-ghost "Explore this") :ghost:
+
+<table>
+<tr>
+<td align="center" width="400px">
+<p></p>
+
+https://user-images.githubusercontent.com/16251546/148097883-83556136-6853-471d-a476-af80bdd41b63.mp4
+
+[<img height=26 src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/Explore-2A2E30.svg"/></img>](https://github.com/MyThemeWay/mtw-canvas-malachite "Explore Malachite Header")
+
+</td>
+<td align="center" width="400px">
+<p></p>
+
+https://user-images.githubusercontent.com/16251546/148187030-1fd7bd3a-83b3-444d-9f4d-d847e66e0063.mp4
+
+[<img height=26 src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/Explore-grey.svg"/></img>](https://github.com/MyThemeWay/mtw-canvas-disks "Explore Disks Header")
+
+</td>
+</tr>
+<tr>
+<td align="center" width="400px">
+<p></p>
+
+https://user-images.githubusercontent.com/16251546/148187130-712e32cf-363f-41d5-a2ee-ed448e85ff00.mp4
+
+[<img height=26 src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/Explore-grey.svg"/></img>](https://github.com/MyThemeWay/mtw-canvas-spiral "Explore Spiral Header")
+
+</td>
+<td align="center" width="400px">
+<p></p>
+
+https://user-images.githubusercontent.com/16251546/148187184-a4d76093-e495-43f1-8178-07a551a7672f.mp4
+
+[<img height=26 src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/Explore-2A2E30.svg"/></img>](https://github.com/MyThemeWay/mtw-canvas-blacksea "Explore Blacksea Header")
+
+</td>
+</tr>
+</table>
+
+<br>
+
 # Have a nice day :wave:
 <img height=25 src="https://img.shields.io/badge/Profile-Visitors-2A2E30.svg"/></img><br>
 <img height=25 src="https://badges.pufler.dev/visits/sitdisch/sitdisch?label=&color=blue"/></img>
+
 </div>
+
+### Note on protected brand names and logos
+> * The use of protected brand names, trade names, utility models and brand logos on this website does not constitute an infringement of copyright; rather, it serves as an illustrative note. Even if this is not marked as such at the respective points, the corresponding legal provisions always apply.
+> * The brand names and logos used are the property of their respective owners and are subject to their copyright provisions.
+
+### Note on liability for links
+> * This README contains links to external third-party websites. The README operator has no influence on the content of these sites. Therefore, he cannot assume any liability. Instead, the respective provider is always responsible for the content.
+> * The linked pages were checked for possible legal violations at the time of linking and illegal content wasn't discernible. A permanent control of the linked pages is unreasonable without concrete evidence of an infringement. However, if the README operator becomes aware of such a violation, he will act immediately. 
+
+### Readme uses
+> * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats "Check it out") [License: [MIT](https://github.com/anuraghazra/github-readme-stats/blob/master/LICENSE "Go there"); Copyright ©️ 2021 Anurag Hazra]
+> * [git-badges](https://github.com/puf17640/git-badges "Check it out") [License: [BSD&nbsp;3-Clause](https://github.com/puf17640/git-badges/blob/master/LICENSE "Go there"); Copyright ©️ 2020 Julian Pufler]
+> * [Shields.io](https://github.com/badges/shields "Check it out") [License: [CC0&nbsp;1.0](https://github.com/badges/shields/blob/master/LICENSE "Go there")]
