@@ -37,37 +37,37 @@
 <table>
 <tr>
 <td align="center" width="400px">
-<h3 align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-malachite" title="Stars & Forks of Malachite Header" target="_blank"> :star: <img height=17 src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-malachite?label="/></img> &#9282; <img height=17 src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-malachite?label="/></img></a></h3>
+<div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-malachite" title="Stars & Forks of Malachite Header" target="_blank"> :star: <img height=17 src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-malachite?label="/></img> &#9282; <img height=17 src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-malachite?label="/></img></a></div>
 
 https://user-images.githubusercontent.com/16251546/148097883-83556136-6853-471d-a476-af80bdd41b63.mp4
 
-[<img height=26 src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/Explore-2A2E30.svg"/></img>](https://github.com/MyThemeWay/mtw-canvas-malachite "Explore Malachite Header")
+<div><a href="https://github.com/MyThemeWay/mtw-canvas-malachite" title="Explore Malachite Header" target="_blank"><img height=30 src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/Explore-2A2E30.svg"/></img></div>
 
 </td>
 <td align="center" width="400px">
-<h3 align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-disks" title="Stars & Forks of Disks Header" target="_blank"> :star: <img height=17 src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-disks?label="/></img> &#9282; <img height=17 src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-disks?label="/></img></a></h3>
+<div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-disks" title="Stars & Forks of Disks Header" target="_blank"> :star: <img height=17 src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-disks?label="/></img> &#9282; <img height=17 src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-disks?label="/></img></a></div>
 
 https://user-images.githubusercontent.com/16251546/148187030-1fd7bd3a-83b3-444d-9f4d-d847e66e0063.mp4
 
-[<img height=26 src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/Explore-grey.svg"/></img>](https://github.com/MyThemeWay/mtw-canvas-disks "Explore Disks Header")
+<div><a href="https://github.com/MyThemeWay/mtw-canvas-disks" title="Explore Disks Header" target="_blank"><img height=30 src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/Explore-grey.svg"/></img></div>
 
 </td>
 </tr>
 <tr>
 <td align="center" width="400px">
-<h3 align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-spiral" title="Stars & Forks of Spiral Header" target="_blank"> :star: <img height=17 src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-spiral?label="/></img> &#9282; <img height=17 src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-spiral?label="/></img></a></h3>
+<div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-spiral" title="Stars & Forks of Spiral Header" target="_blank"> :star: <img height=17 src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-spiral?label="/></img> &#9282; <img height=17 src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-spiral?label="/></img></a></div>
 
 https://user-images.githubusercontent.com/16251546/148187130-712e32cf-363f-41d5-a2ee-ed448e85ff00.mp4
 
-[<img align="center" height=26 src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/Explore-grey.svg"/></img>](https://github.com/MyThemeWay/mtw-canvas-spiral "Explore Spiral Header")
+<div><a href="https://github.com/MyThemeWay/mtw-canvas-spiral" title="Explore Spiral Header" target="_blank"><img height=30 src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/Explore-grey.svg"/></img></div>
 
 </td>
 <td align="center" width="400px">
-<h3 align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-blacksea" title="Stars & Forks of Blacksea Header" target="_blank"> :star: <img height=17 src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-blacksea?label="/></img> &#9282; <img height=17 src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-blacksea?label="/></img></a></h3>
+<div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-blacksea" title="Stars & Forks of Blacksea Header" target="_blank"> :star: <img height=17 src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-blacksea?label="/></img> &#9282; <img height=17 src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-blacksea?label="/></img></a></div>
 
 https://user-images.githubusercontent.com/16251546/148187184-a4d76093-e495-43f1-8178-07a551a7672f.mp4
 
-[<img height=26 src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/Explore-2A2E30.svg"/></img>](https://github.com/MyThemeWay/mtw-canvas-blacksea "Explore Blacksea Header")
+<div><a href="https://github.com/MyThemeWay/mtw-canvas-blacksea" title="Explore Blacksea Header" target="_blank"><img height=30 src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/Explore-2A2E30.svg"/></img></div>
 
 </td>
 </tr>
