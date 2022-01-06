@@ -27,17 +27,17 @@
 
 # <a href="https://github.com/mythemeway" title="Explore this" target="_blank"><img src="https://avatars.githubusercontent.com/u/52597090?s=60&amp;v=4" alt="@MyThemeWay" size="25" height="25" width="25"></img></a> [MyThemeWay](https://github.com/mythemeway "Explore this") :sparkles:
 
-## <a href="https://github.com/mythemeway" title="Explore this" target="_blank"><img src="https://avatars.githubusercontent.com/u/52597090?s=60&amp;v=4" alt="@MyThemeWay" size="23" height="23" width="23"></img></a> [Boilerplates](https://github.com/mythemeway#-boilerplates-sparkles "Explore this") :hotsprings:
+## <a href="https://github.com/mythemeway" title="Explore this" target="_blank"><img src="https://avatars.githubusercontent.com/u/52597090?s=60&amp;v=4" alt="@MyThemeWay" size="19" height="19" width="19"></img></a> [Boilerplates](https://github.com/mythemeway#-boilerplates-sparkles "Explore this") :hotsprings:
 <a align="center" href="https://github.com/mythemeway" title="Explore this" target="_blank"><img src="https://i.redd.it/txxr1z113ib61.gif" width="804"/></a>
 <a href="https://github.com/MyThemeWay/Dark-Particle" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mythemeway&repo=Dark-Particle&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905"/></a>
 <a href="https://github.com/MyThemeWay/Light-Particle" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mythemeway&repo=Light-Particle&border_color=050B0E" /></a>
 
-## <a href="https://github.com/mythemeway" title="Explore this" target="_blank"><img src="https://avatars.githubusercontent.com/u/52597090?s=60&amp;v=4" alt="@MyThemeWay" size="23" height="23" width="23"></img></a> [WebGL Headers](https://github.com/mythemeway#-webgl-headers-ghost "Explore this") :ghost:
+## <a href="https://github.com/mythemeway" title="Explore this" target="_blank"><img src="https://avatars.githubusercontent.com/u/52597090?s=60&amp;v=4" alt="@MyThemeWay" size="19" height="19" width="19"></img></a> [WebGL Headers](https://github.com/mythemeway#-webgl-headers-ghost "Explore this") :ghost:
 
 <table>
 <tr>
 <td align="center" width="400px">
-<p></p>
+<h3 align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-malachite" title="Stars & Forks of Malachite Header" target="_blank"> :star: <img height=17 src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-malachite?label="/></img> &#9282; <img height=17 src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-malachite?label="/></img></a></h3>
 
 https://user-images.githubusercontent.com/16251546/148097883-83556136-6853-471d-a476-af80bdd41b63.mp4
 
@@ -45,7 +45,7 @@ https://user-images.githubusercontent.com/16251546/148097883-83556136-6853-471d-
 
 </td>
 <td align="center" width="400px">
-<p></p>
+<h3 align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-disks" title="Stars & Forks of Disks Header" target="_blank"> :star: <img height=17 src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-disks?label="/></img> &#9282; <img height=17 src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-disks?label="/></img></a></h3>
 
 https://user-images.githubusercontent.com/16251546/148187030-1fd7bd3a-83b3-444d-9f4d-d847e66e0063.mp4
 
@@ -55,15 +55,15 @@ https://user-images.githubusercontent.com/16251546/148187030-1fd7bd3a-83b3-444d-
 </tr>
 <tr>
 <td align="center" width="400px">
-<p></p>
+<h3 align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-spiral" title="Stars & Forks of Spiral Header" target="_blank"> :star: <img height=17 src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-spiral?label="/></img> &#9282; <img height=17 src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-spiral?label="/></img></a></h3>
 
 https://user-images.githubusercontent.com/16251546/148187130-712e32cf-363f-41d5-a2ee-ed448e85ff00.mp4
 
-[<img height=26 src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/Explore-grey.svg"/></img>](https://github.com/MyThemeWay/mtw-canvas-spiral "Explore Spiral Header")
+[<img align="center" height=26 src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/Explore-grey.svg"/></img>](https://github.com/MyThemeWay/mtw-canvas-spiral "Explore Spiral Header")
 
 </td>
 <td align="center" width="400px">
-<p></p>
+<h3 align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-blacksea" title="Stars & Forks of Blacksea Header" target="_blank"> :star: <img height=17 src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-blacksea?label="/></img> &#9282; <img height=17 src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-blacksea?label="/></img></a></h3>
 
 https://user-images.githubusercontent.com/16251546/148187184-a4d76093-e495-43f1-8178-07a551a7672f.mp4
 
