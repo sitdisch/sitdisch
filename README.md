@@ -78,8 +78,6 @@ https://user-images.githubusercontent.com/16251546/148187184-a4d76093-e495-43f1-
 </tr>
 </table>
 
-<br>
-
 # Have a nice day :wave:
 <img height="25" src="https://img.shields.io/badge/Profile-Visitors-2A2E30.svg"/></img><br>
 <img height="25" src="https://badges.pufler.dev/visits/sitdisch/sitdisch?label=&color=blue"/></img>
