@@ -45,7 +45,7 @@
 <table>
 <tr>
 <td align="center" width="400px">
-<div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-malachite" title="Stars & Forks of Malachite Header" target="_blank"> <img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-malachite?label="/></img> <img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-malachite?label="/></img></a></div>
+<div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-malachite" title="Stars of Malachite Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-malachite?label="/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-malachite" title="Forks of Malachite Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-malachite?label="/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-malachite#embed-via-jsdelivr" title="jsDelivr Hits of Malachite Canvas" target="_blank"> <img height="17" src="https://img.shields.io/jsdelivr/gh/hy/mythemeway/mtw-canvas-malachite?label=Hits&color=blue&logo=jsdelivr" /></a></div>
 
 https://user-images.githubusercontent.com/16251546/148097883-83556136-6853-471d-a476-af80bdd41b63.mp4
 
@@ -53,7 +53,7 @@ https://user-images.githubusercontent.com/16251546/148097883-83556136-6853-471d-
 
 </td>
 <td align="center" width="400px">
-<div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-disks" title="Stars & Forks of Disks Header" target="_blank"> <img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-disks?label="/></img> <img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-disks?label="/></img></a></div>
+<div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-disks" title="Stars of Disks Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-disks?label="/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-disks" title="Forks of Disks Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-disks?label="/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-disks#embed-via-jsdelivr" title="jsDelivr Hits of Disks Canvas" target="_blank"> <img height="17" src="https://img.shields.io/jsdelivr/gh/hy/mythemeway/mtw-canvas-disks?label=Hits&color=blue&logo=jsdelivr" /></a></div>
 
 https://user-images.githubusercontent.com/16251546/148187030-1fd7bd3a-83b3-444d-9f4d-d847e66e0063.mp4
 
@@ -63,7 +63,7 @@ https://user-images.githubusercontent.com/16251546/148187030-1fd7bd3a-83b3-444d-
 </tr>
 <tr>
 <td align="center" width="400px">
-<div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-spiral" title="Stars & Forks of Spiral Header" target="_blank"> <img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-spiral?label="/></img> <img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-spiral?label="/></img></a></div>
+<div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-spiral" title="Stars of Spiral Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-spiral?label="/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-spiral" title="Forks of Spiral Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-spiral?label="/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-spiral#embed-via-jsdelivr" title="jsDelivr Hits of Spiral Canvas" target="_blank"> <img height="17" src="https://img.shields.io/jsdelivr/gh/hy/mythemeway/mtw-canvas-spiral?label=Hits&color=blue&logo=jsdelivr" /></a></div>
 
 https://user-images.githubusercontent.com/16251546/148187130-712e32cf-363f-41d5-a2ee-ed448e85ff00.mp4
 
@@ -71,7 +71,7 @@ https://user-images.githubusercontent.com/16251546/148187130-712e32cf-363f-41d5-
 
 </td>
 <td align="center" width="400px">
-<div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-blacksea" title="Stars & Forks of Blacksea Header" target="_blank"> <img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-blacksea?label="/></img> <img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-blacksea?label="/></img></a></div>
+<div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-blacksea" title="Stars of Blacksea Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-blacksea?label="/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-blacksea" title="Forks of Blacksea Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/></img> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-blacksea?label="/></img></a> <a href="https://github.com/MyThemeWay/mtw-canvas-blacksea#embed-via-jsdelivr" title="jsDelivr Hits of Blacksea Canvas" target="_blank"> <img height="17" src="https://img.shields.io/jsdelivr/gh/hy/mythemeway/mtw-canvas-blacksea?label=Hits&color=blue&logo=jsdelivr" /></a></div>
 
 https://user-images.githubusercontent.com/16251546/148187184-a4d76093-e495-43f1-8178-07a551a7672f.mp4
 
@@ -99,4 +99,5 @@ https://user-images.githubusercontent.com/16251546/148187184-a4d76093-e495-43f1-
 > * [star-solid.svg](https://fontawesome.com/v5.15/icons/star?style=solid "Check it out") & [code-branch-solid.svg](https://fontawesome.com/v5.15/icons/code-branch?style=solid "Check it out") [License: [CC&nbsp;BY&nbsp;4.0](https://fontawesome.com/license/free "Check it out"); Copyright: ©️  Fonticons, Inc.; Changes: made]
 > * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats "Check it out") [License: [MIT](https://github.com/anuraghazra/github-readme-stats/blob/master/LICENSE "Go there"); Copyright: ©️ 2021 Anurag Hazra]
 > * [git-badges](https://github.com/puf17640/git-badges "Check it out") [License: [BSD&nbsp;3-Clause](https://github.com/puf17640/git-badges/blob/master/LICENSE "Go there"); Copyright: ©️ 2020 Julian Pufler]
+> * [Simple Icons](https://simpleicons.org/ "Check it out") [License: [CC0&nbsp;1.0](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md "Go there")]
 > * [Shields.io](https://github.com/badges/shields "Check it out") [License: [CC0&nbsp;1.0](https://github.com/badges/shields/blob/master/LICENSE "Go there")]
