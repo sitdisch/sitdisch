@@ -42,8 +42,8 @@
 <table>
 <td align="center" width="500px">
 
-<a align="center" href="https://github.com/MyThemeWay/mtw-boilerplate-charts" title="Explore this" target="_blank"><img src="https://github.com/sitdisch/cloud/blob/master/gifs/mtw-boilerplate-charts.gif?raw=true" width="804"/></a>
-<a href="https://github.com/MyThemeWay/mtw-boilerplate-charts" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mythemeway&repo=mtw-boilerplate-charts&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905"/></a>
+<a align="center" href="https://github.com/MyThemeWay/mtw-boilerplate-decks" title="Explore this" target="_blank"><img src="https://github.com/sitdisch/cloud/blob/master/gifs/mtw-boilerplate-decks.gif?raw=true" width="804"/></a>
+<a href="https://github.com/MyThemeWay/mtw-boilerplate-decks" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mythemeway&repo=mtw-boilerplate-decks&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905"/></a>
 
 </td>
 </table>
@@ -52,12 +52,21 @@
 <table>
 <td align="center" width="500px">
 
+<a align="center" href="https://github.com/MyThemeWay/mtw-boilerplate-charts" title="Explore this" target="_blank"><img src="https://github.com/sitdisch/cloud/blob/master/gifs/mtw-boilerplate-charts.gif?raw=true" width="804"/></a>
+<a href="https://github.com/MyThemeWay/mtw-boilerplate-charts" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mythemeway&repo=mtw-boilerplate-charts&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905"/></a>
+
+</td>
+</table>
+</div>
+
+<table>
+<td align="center" width="500px">
+
 <a align="center" href="https://github.com/MyThemeWay/mtw-boilerplate-graphics" title="Explore this" target="_blank"><img src="https://github.com/sitdisch/cloud/blob/master/gifs/mtw-boilerplate-graphics.gif?raw=true" width="804"/></a>
 <a href="https://github.com/MyThemeWay/mtw-boilerplate-graphics" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mythemeway&repo=mtw-boilerplate-graphics&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905"/></a>
 
 </td>
 </table>
-</div>
 
 <div align="center">
 
