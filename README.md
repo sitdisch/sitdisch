@@ -3,7 +3,7 @@
 # G'day :v:
 
 # [MyGitHubPage](https://sitdisch.github.io/ "Visit me") :globe_with_meridians:
-<a align="center" href="https://sitdisch.github.io/" title="Visit me" target="_blank"><img src="https://repository-images.githubusercontent.com/204969045/f53a1280-4a8d-11eb-9755-ad98f6c6ca18" width="804"/></a>
+<a align="center" href="https://sitdisch.github.io/" title="Visit me" target="_blank"><img src="https://repository-images.githubusercontent.com/204969045/8a863fc0-b625-4784-840c-edc0cfaba500" width="804"/></a>
 
 <br>
 
@@ -18,13 +18,13 @@
 
 ## <a href="https://github.com/myactionway" title="Explore this" target="_blank"><img src="https://avatars.githubusercontent.com/u/80457499?s=60&amp;v=4" alt="@MyActionWay" size="19" height="19" width="19"></img></a> [Lighthouse-Badger](https://github.com/myactionway#-lighthouse-badger-badger "Explore this") :badger:
 
-<a align="center" href="https://github.com/myactionway/lighthouse-badger-action" title="Explore this" target="_blank"><img src="https://repository-images.githubusercontent.com/359823564/31d7b800-af1f-11eb-8d4b-431075ac940c" width="804"/></a>
+<a align="center" href="https://github.com/myactionway/lighthouse-badger-action" title="Explore this" target="_blank"><img src="https://repository-images.githubusercontent.com/359823564/3353b8ed-8000-4394-a3f6-265370fd3235" width="804"/></a>
 <a href="https://github.com/myactionway/lighthouse-badger-action" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=myactionway&repo=lighthouse-badger-action&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905" /></a>
 <a href="https://github.com/myactionway/lighthouse-badger-workflows" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=myactionway&repo=lighthouse-badger-workflows&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905" /></a>
 
 ## <a href="https://github.com/myactionway" title="Explore this" target="_blank"><img src="https://avatars.githubusercontent.com/u/80457499?s=60&amp;v=4" alt="@MyActionWay" size="19" height="19" width="19"></img></a> [Branch-Pruner](https://github.com/myactionway#-branch-pruner-scissors "Explore this") :scissors:
 
-<a align="center" href="https://github.com/myactionway/branch-pruner-action" title="Explore this" target="_blank"><img src="https://repository-images.githubusercontent.com/352585084/3bae0d80-bb12-11eb-86c4-c420ef0fec71" width="804"/></a>
+<a align="center" href="https://github.com/myactionway/branch-pruner-action" title="Explore this" target="_blank"><img src="https://repository-images.githubusercontent.com/352585266/cc34310b-3ab2-4085-b5f5-b1b2cc306a64" width="804"/></a>
 <a href="https://github.com/myactionway/branch-pruner-action" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=myactionway&repo=branch-pruner-action&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905" /></a>
 <a href="https://github.com/myactionway/branch-pruner-workflows" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=myactionway&repo=branch-pruner-workflows&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905" /></a>
 
