@@ -18,7 +18,7 @@
 
 ## <a href="https://github.com/myactionway" title="Explore this" target="_blank"><img src="https://avatars.githubusercontent.com/u/80457499?s=60&amp;v=4" alt="@MyActionWay" size="19" height="19" width="19"></img></a> [Lighthouse-Badger](https://github.com/myactionway#-lighthouse-badger-badger "Explore this") :badger:
 
-<a align="center" href="https://github.com/myactionway/lighthouse-badger-action" title="Explore this" target="_blank"><img src="https://repository-images.githubusercontent.com/359823564/3353b8ed-8000-4394-a3f6-265370fd3235" width="804"/></a>
+<a align="center" href="https://github.com/myactionway/lighthouse-badger-action" title="Explore this" target="_blank"><img src="https://repository-images.githubusercontent.com/359827195/1a084a2e-f30b-4c5d-b4a8-a3ce60d6f945" width="804"/></a>
 <a href="https://github.com/myactionway/lighthouse-badger-action" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=myactionway&repo=lighthouse-badger-action&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905" /></a>
 <a href="https://github.com/myactionway/lighthouse-badger-workflows" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=myactionway&repo=lighthouse-badger-workflows&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905" /></a>
 
