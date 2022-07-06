@@ -3,7 +3,7 @@
 # G'day :v:
 
 # [MyGitHubPage](https://sitdisch.github.io/ "Visit me") :globe_with_meridians:
-<a align="center" href="https://sitdisch.github.io/" title="Visit me" target="_blank"><img src="https://repository-images.githubusercontent.com/204969045/8a863fc0-b625-4784-840c-edc0cfaba500" width="804"/></a>
+<a align="center" href="https://sitdisch.github.io/" title="Visit me" target="_blank"><img src="https://repository-images.githubusercontent.com/204969045/a00c9e97-2ba3-49be-915d-1164ea8f00f7" width="804"/></a>
 
 <br>
 
@@ -62,7 +62,7 @@
 <table>
 <td align="center" width="500px">
 
-<a align="center" href="https://github.com/MyThemeWay/mtw-boilerplate-charts" title="Explore this" target="_blank"><img src="https://repository-images.githubusercontent.com/481295060/f5440180-8316-4816-af25-66b544761ff8" width="804"/></a>
+<a align="center" href="https://github.com/MyThemeWay/mtw-boilerplate-charts" title="Explore this" target="_blank"><img src="https://repository-images.githubusercontent.com/481295060/7ec8fd63-8ea7-4bff-a601-4777b509c44f" width="804"/></a>
 <a href="https://github.com/MyThemeWay/mtw-boilerplate-charts" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mythemeway&repo=mtw-boilerplate-charts&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905"/></a>
 
 </td>
